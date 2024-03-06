@@ -4154,9 +4154,3 @@ input, select, textarea {
 		}
 
 	}
-
-	#banner {
- 	   background-image: url('https://raw.githubusercontent.com/IzaacMartinez27/FloodFinder.github.io/main/images/Photo%20for%20FF.webp');
- 	   background-size: cover; /* Cover the entire page */
- 	   background-position: center; /* Center the background image */
-	}
